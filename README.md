@@ -1,6 +1,6 @@
 # Edumate
 
-I created a a student management software, in which students can register himself/herself. Once registered, the student an login and submit their performance details for the semster which includes their subject names, marks scored and credits. The system then evaluates the data entered to generate the CGPI and percentage for the student.
+I created a student management software, in which students can register himself/herself. Once registered, the student can login and submit their performance details for the semester which includes their subject names, marks scored and credits. The system then evaluates the data entered to generate the CGPI and percentage for the student.
 
 Modules:
   1. Login
